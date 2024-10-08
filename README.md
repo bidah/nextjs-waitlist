@@ -51,7 +51,7 @@ See it in action at [capsulethis.com](https://capsulethis.com) (and make sure to
 4. Install Vercel CLI `npm i -g vercel` and run `vercel login` to login to your Vercel account
 5. Run `npm run deploy` to deploy the app to Vercel
 6. Buy a domain on Vecel and add it to your Vercel project
-10. Customize Resend settings with youor Vercel Domain
+10. Customize Resend settings with your Vercel Domain
 
 ## OG Metadata
 
