@@ -48,7 +48,7 @@ export function LandingPage() {
           {/* Logo */}
           <div className="absolute top-0 left-0 right-0 w-full p-0">
             <div className="max-w-md mx-auto flex flex-start justify-center">
-              <Logo width={300} height={160} className="sm:w-[400px] sm:h-[214px]" />
+              <p>Next.js Waitlist</p>
             </div>
           </div>
 
