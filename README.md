@@ -12,6 +12,10 @@
 
 This is a [Next.js](https://nextjs.org) starter for a  waitlist web app built with [Neon DB](https://neon.tech/), [Resend](https://resend.com/) and styling with [TailwindCSS](https://tailwindcss.com/) and [Shadcn](https://ui.shadcn.com/).
 
+## Demo 
+
+See it in action at [capsulethis.com](https://capsulethis.com) (and make sure to subscribe for the waitlist 😉)
+
 ## Tech Stack
 
 - [Next.js](https://nextjs.org/)
