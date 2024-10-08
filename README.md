@@ -1,6 +1,6 @@
 
 <p style="text-align:center; display: block;">
-<img src="https://i.imgur.com/rtuz5cx.png" width="100%" />
+<img src="https://i.imgur.com/Afxev2q.png" width="100%" />
 </p>
 
 <p align="center">
@@ -10,13 +10,14 @@
 </p>
 
 
-This is a [Next.js](https://nextjs.org) starter for a  waitlist web app built with [Neon DB](https://neon.tech/) and [Resend](https://resend.com/). 
+This is a [Next.js](https://nextjs.org) starter for a  waitlist web app built with [Neon DB](https://neon.tech/), [Resend](https://resend.com/) and styling with [TailwindCSS](https://tailwindcss.com/) and [Shadcn](https://ui.shadcn.com/).
 
 ## Tech Stack
 
 - [Next.js](https://nextjs.org/)
 - [Neon Database](https://neon.tech/)
 - [Resend](https://resend.com/)
+- [Shadcn](https://ui.shadcn.com/)
 - [TailwindCSS](https://tailwindcss.com/)
 
 ## Setup

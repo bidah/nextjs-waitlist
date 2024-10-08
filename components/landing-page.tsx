@@ -3,7 +3,6 @@
 import { useState } from 'react'
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
-import Logo from './Logo';
 
 export function LandingPage() {
   const [email, setEmail] = useState('')
@@ -48,13 +47,13 @@ export function LandingPage() {
           {/* Logo */}
           <div className="absolute top-0 left-0 right-0 w-full p-0">
             <div className="max-w-md mx-auto flex flex-start justify-center">
-              <p>Next.js Waitlist</p>
+              <p>Next.js Waitlist </p>
             </div>
           </div>
 
           {/* Phrase */}
           <h1 className="text-xl md:text-2xl text-center text-black">
-            <span className="font-semibold font-varela-round text-black">When if not now?</span><br/> With Capsule, synthesize any content in seconds and get a summary right away. It&apos;s a new way to consume and discover content. Say goodbye to endless unread bookmarks and &apos;watch later&apos; lists forever.
+            <span className="font-semibold font-varela-round text-black">Your tagline</span><br/> of your app or SAAS app will go here.
           </h1>
 
           {/* Input and Button */}
