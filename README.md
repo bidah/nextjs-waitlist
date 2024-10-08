@@ -43,14 +43,14 @@ See it in action at [capsulethis.com](https://capsulethis.com) (and make sure to
     ```
 
 3. Create a new Resend account and update the `.env` file with the API key
-4. Install Vercel CLI `npm i -g vercel` and run `vercel login` to login to your Vercel account
 5. Run `npm install` to install the dependencies
 6. Run `npm run dev` to start the development server
 7. customize the landing page by editing `components/landing-page.tsx`
     - change the title, description, and background image
     - add your own favicon
-8. Run `npm run deploy` to deploy the app to Vercel
-9. Buy a domain on Vecel and add it to your Vercel project
+4. Install Vercel CLI `npm i -g vercel` and run `vercel login` to login to your Vercel account
+5. Run `npm run deploy` to deploy the app to Vercel
+6. Buy a domain on Vecel and add it to your Vercel project
 10. Customize Resend settings with youor Vercel Domain
 
 ## OG Metadata
