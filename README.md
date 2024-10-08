@@ -77,3 +77,14 @@ The app includes two main API routes:
      - 400: Email is required
      - 404: Email not found in waitlist
      - 500: An error occurred while confirming the email
+
+
+## About Author
+
+### Rodrigo Figueroa
+
+Follow Rodrigo Figueroa, creator of `uni-stack` for updates on the project and universal app development on [x/twitter](https://twitter.com/bidah)
+
+## License
+
+MIT
