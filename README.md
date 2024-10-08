@@ -83,7 +83,7 @@ The app includes two main API routes:
 
 ### Rodrigo Figueroa
 
-Follow Rodrigo Figueroa, creator of `uni-stack` for updates on the project and universal app development on [x/twitter](https://twitter.com/bidah)
+Follow Rodrigo Figueroa for updates on the project and universal app development on [x/twitter](https://twitter.com/bidah)
 
 ## License
 
