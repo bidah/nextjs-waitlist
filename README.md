@@ -28,6 +28,20 @@ See it in action at [capsulethis.com](https://capsulethis.com) (and make sure to
 
 1. Clone the repository
 2. Create a new Neon database and update the `.env` file with the database URL
+3. On Neon DB sidebar choose `SQL Editor` create a new table called `waitlist` as follows:
+   ```SQL
+    CREATE TABLE waitlist (
+        id SERIAL PRIMARY KEY,
+        email TEXT NOT NULL,
+        confirmed BOOLEAN DEFAULT FALSE,
+        created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP
+    );
+
+    ALTER TABLE waitlist ADD CONSTRAINT unique_email UNIQUE (email);
+
+    CREATE INDEX idx_waitlist_email ON waitlist (email);
+    ```
+
 3. Create a new Resend account and update the `.env` file with the API key
 4. Install Vercel CLI `npm i -g vercel` and run `vercel login` to login to your Vercel account
 5. Run `npm install` to install the dependencies
